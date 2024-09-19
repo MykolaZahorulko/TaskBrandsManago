@@ -1,1 +1,1 @@
-main.js
+import './src/styles.scss';
